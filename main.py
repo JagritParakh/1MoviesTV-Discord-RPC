@@ -29,7 +29,8 @@ try:
     while True:
         fullWatching = getWatching()
         if fullWatching is None:
-            continue
+            RPC.clear()
+            
         else:
             seasonindex = fullWatching.find("Season")
             watching = ""
