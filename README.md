@@ -16,15 +16,13 @@ To use it, clone the repo and run the following commands in the terminal
 
   ### Desktop Assistance 
 
-  ![License](https://img.shields.io/github/license/OnePunchMan2718/Jarvis?color=598e3c&style=for-the-badge)
-  ![Lines of Code](https://img.shields.io/tokei/lines/github/OnePunchMan2718/Jarvis?color=598e3c&style=for-the-badge)
-  ![Code Size](https://img.shields.io/github/languages/code-size/OnePunchMan2718/Jarvis?color=598e3c&style=for-the-badge)
-  ![Downloads](https://img.shields.io/github/downloads/OnePunchMan2718/Jarvis/total?color=598e3c&style=for-the-badge)
+  ![License](https://img.shields.io/github/license/OnePunchMan2718/1MoviesTV-Discord-RPC?color=598e3c&style=for-the-badge)
+  ![Lines of Code](https://img.shields.io/tokei/lines/github/OnePunchMan2718/1MoviesTV-Discord-RPC?color=598e3c&style=for-the-badge)
+  ![Code Size](https://img.shields.io/github/languages/code-size/OnePunchMan2718/1MoviesTV-Discord-RPC?color=598e3c&style=for-the-badge)
+  ![Downloads](https://img.shields.io/github/downloads/OnePunchMan2718/1MoviesTV-Discord-RPC/total?color=598e3c&style=for-the-badge)
 
   [![Discord Server Invite](https://discord.com/api/guilds/876398373962412102/widget.png?style=banner2)](https://discord.gg/9qKScMjdPF)
 </div>
-
-Our No. 1 Marvel Character **Iron Man (Tony Stark)'s Right Hand Virtual Partner ***J.A.R.I.S.***** J.A.R.I.S. is a desktop voice assistant which works on the voice command offered to it, it can do voice searching, voice-activated device control, and can let us complete a set of tasks. It makes it easier to complete any task as it automatically does it by using the essential module or libraries of Python, in a conversational interaction way. Hence any user when instructs on any task to it, because of the conversational interaction for giving input and getting the desired output in the form of a task done. The main application of it can be its multitasking ability. It can ask for continuous instructions one after the other until the user says “GO TO SLEEP” it.
 
 ## Installation
 
@@ -34,37 +32,12 @@ Our No. 1 Marvel Character **Iron Man (Tony Stark)'s Right Hand Virtual Partner 
 ## Usage
 
 To run the project, use the following Method:
-1. Open The Jarvis.py file in the editor.
-2. Open The Terminal And Download the Modules.
-
-#### **![#f03c15](https://www.iconsdb.com/icons/download/color/f03c15/circle-16.png) `Caution:`**
-```markdown
-*If while downloading playsound in terminal. There may occur a error. You Just Have To do:
-```
-```
-pip install --upgrade wheel
-```
-3. After Downloading Run The Program.
+1. Open The main.py file in the editor.
+2. Paste your [Discord Token](https://youtu.be/EiJF254c8YQ?si=mOCJhy_cmJv09WEL) in ``<ClientID>``
+3. Open The Terminal And Download the Modules Using <br>`pip install -r requirements.txt`</br>
+4. Run the code using `python main.py`
 
 ***- Now Relax and Enjoy***
-
-## Features
-
-- Music
-- Whatsapp
-- Open or Close Any Programs
-- Youtube Automation
-- Browser Automation
-- Dictionary
-- Screenshot
-- Translation To Any Language
-- Temperature Of Your Local Area
-- Speed Test Of Your Internet
-- Google Search [Just Like Google Assistant]
-- Tells You A Joke
-- Tells You Your Current Location
-- Alarm
-- Acts As A reminder 
 
 ## Contributing
 
@@ -82,6 +55,5 @@ This project is licensed under the [Unlicense License](LICENSE).
 ## Acknowledgments:
  
  ```markdown
-- Thanks to [TheCoderSimp](https://github.com/TheCoderSimp) for providing the inspiration.
-- Special thanks to [Lxghtning](https://github.com/Lxghtning) for their valuable contributions.
+- Thanks to [TheCoderSimp](https://github.com/TheCoderSimp)
 ```
