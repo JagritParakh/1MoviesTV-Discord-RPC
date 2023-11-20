@@ -1,11 +1,3 @@
-# Discord RPC for [1MoviesTV](https://1moviestv.com/home)
-## Only Works on windows currently.
-
-To use it, clone the repo and run the following commands in the terminal
-<br>`pip install -r requirements.txt`</br>
-`python main.py`
-
-
 <div  align="center">
 
   ![Jarvis-Light](https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only)
