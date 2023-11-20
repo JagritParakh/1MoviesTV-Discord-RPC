@@ -22,7 +22,7 @@ def ShowString(current):
     
 
 try:
-    clientId = 979442737990471710
+    clientId = <INSERT YOUR CLIENTID>
     RPC = pypresence.Presence(client_id=clientId)
     RPC.connect()
     start = int(time.time())
